@@ -1,4 +1,4 @@
-新麻豆__6655,#genre#
+新麻豆,#genre#
 新麻豆01,https://1xp60.cdnedge.live/file/avple-images/hls/614d15c1246f4b08f7e8fcc1/playlist.m3u8
 新麻豆02,https://u89ey.cdnedge.live/file/avple-images/hls/614d1585246f4b08f7e8fcc0/playlist.m3u8
 新麻豆03,https://8bb88.cdnedge.live/file/avple-images/hls/614d150d246f4b08f7e8fcbf/playlist.m3u8
