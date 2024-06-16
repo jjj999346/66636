@@ -1,0 +1,115 @@
+央视卫视,#genre#
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV-4中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV-5体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV-5+体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
+CCTV-7军事·农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV-9纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV-10科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV-11戏曲,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
+CCTV-12社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
+CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#https://pi.0472.org/tv/startv.php?auth=231110
+CCTV-14少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV-15音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV-16奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
+CCTV世界地理 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV兵器科技 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
+CCTV央视台球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
+CCTV央视文化精品 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
+CCTV怀旧剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+CCTV电视指南 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
+CCTV第一剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
+CCTV风云剧场 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
+CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
+CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
+CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+辽宁移动宽带高清,#genre#
+辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
+辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
+辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
+辽宁体育,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
+辽宁影视剧,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000070
+辽宁教育青少,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
+辽宁经济,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
+辽宁公共,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
+北方导视,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000187
+辽宁新动漫,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000140
+沈阳新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000059
+抚顺综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000275
+鞍山新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000274
+大连新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000273
+丹东新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000276
+锦州新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
+阜新综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
+辽阳新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000280
+营口新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000278
+盘锦新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283
+铁岭新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
+朝阳新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282
+本溪综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000312
+连山区综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000491
+龙港区综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000490
+葫芦岛新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000284
+辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
+辽宁联通宽带标清,#genre#
+辽宁卫视HD,http://jd.sy012.com:4000/udp/232.0.0.144:9108
+辽宁都市HD,http://jd.sy012.com:4000/udp/232.0.0.42:8856
+辽宁体育HD,http://jd.sy012.com:4000/udp/232.0.0.66:8820
+辽宁体育HD,http://113.229.157.158:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧HD,http://jd.sy012.com:4000/udp/232.0.0.97:8534
+辽宁经济HD,http://jd.sy012.com:4000/udp/232.0.0.155:9320
+辽宁公共HD,http://jd.sy012.com:4000/udp/232.0.0.156:9322
+辽宁移动电视HD,http://jd.sy012.com:4000/udp/232.0.0.167:9338
+辽宁北方HD,http://jd.sy012.com:4000/udp/232.0.0.211:9240
+辽宁生活HD,http://jd.sy012.com:4000/udp/232.0.0.212:9242
+辽宁青少HD,http://jd.sy012.com:4000/udp/232.0.0.230:9356
+葫芦岛综合,http://jd.sy012.com:4000/udp/232.0.0.238:9260
+葫芦岛公共,http://jd.sy012.com:4000/udp/232.0.0.239:9262
+党员教育,http://jd.sy012.com:4000/udp/232.0.0.224:9270
+辽宁广播,#genre#
+辽宁交通广播,https://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
+辽宁经典广播,https://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8
+辽宁经济广播,https://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
+辽宁乡村广播,https://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
+辽宁之声,https://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
